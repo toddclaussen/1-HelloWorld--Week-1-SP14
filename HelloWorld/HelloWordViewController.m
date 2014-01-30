@@ -6,8 +6,14 @@
 //  Copyright (c) 2014 Chuck Konkol. All rights reserved.
 //
 
+<<<<<<< HEAD
 //first mod
 //second module
+=======
+//first module
+//second module
+
+>>>>>>> parent of c3e5b77... Module 1
 
 #import "HelloWordViewController.h"
 
