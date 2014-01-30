@@ -6,8 +6,12 @@
 //  Copyright (c) 2014 Chuck Konkol. All rights reserved.
 //
 
+<<<<<<< HEAD
 //first module
+//second module
 
+=======
+>>>>>>> parent of 1c7816d... Module 1
 #import "HelloWordViewController.h"
 
 @interface HelloWordViewController ()
