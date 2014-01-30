@@ -6,9 +6,7 @@
 //  Copyright (c) 2014 Chuck Konkol. All rights reserved.
 //
 
-//first module
-//second module
-
+//first mod
 
 #import "HelloWordViewController.h"
 
