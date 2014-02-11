@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>1D1F7197-4F57-4A6C-9753-E94523B14962</string>
+	<string>7E2DE9FD-D2D0-41CA-A1C9-5EA8D1A89E5B</string>
 	<key>IDESourceControlProjectName</key>
 	<string>HelloWorld</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D65290A6-6FAF-413D-8F93-D724882354FB</key>
-		<string>https://github.com/ioscourse/1-HelloWorld--Week-1-SP14.git</string>
+		<key>8242BFED-C4D2-45DD-A9D3-68255F9FB21B</key>
+		<string>https://github.com/toddclaussen/1-HelloWorld--Week-1-SP14.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>HelloWorld.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D65290A6-6FAF-413D-8F93-D724882354FB</key>
+		<key>8242BFED-C4D2-45DD-A9D3-68255F9FB21B</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/chukon/Weekly-Labs.git</string>
+	<string>https://github.com/toddclaussen/1-HelloWorld--Week-1-SP14.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D65290A6-6FAF-413D-8F93-D724882354FB</string>
+	<string>8242BFED-C4D2-45DD-A9D3-68255F9FB21B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D65290A6-6FAF-413D-8F93-D724882354FB</string>
+			<string>8242BFED-C4D2-45DD-A9D3-68255F9FB21B</string>
 			<key>IDESourceControlWCCName</key>
-			<string>1 HelloWorld Assignment Sp14</string>
+			<string>1-HelloWorld--Week-1-SP14</string>
 		</dict>
 	</array>
 </dict>
